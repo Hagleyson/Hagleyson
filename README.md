@@ -1,4 +1,4 @@
-<img src="github.com/hagleyson.png" alt="hagleyson">
+<img src="https://github.com/hagleyson.png" alt="hagleyson">
 <h1 align="center">Oi eu sou Hagleyson </h1>
 
 -Sou bacharel em Sistemas de informação pela Universidade Juazeiro do Norte - UNIJUA.
