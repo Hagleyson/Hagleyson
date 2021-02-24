@@ -34,8 +34,8 @@
 <a href="https://www.typescriptlang.org/" target="_blank"> 
   <img src="https://xesque.rocketseat.dev/platform/tech/typescript.svg" alt="typescript" width="40" height="40"/>
 </a>
-<a href="https://https://jquery.com/" target="_blank"> 
-  <img src="https://xesque.rocketseat.dev/platform/tech/jquery.svg" alt="typescript" width="40" height="40"/>
+<a href="https://jquery.com/" target="_blank"> 
+  <img src="https://xesque.rocketseat.dev/platform/tech/jquery.svg" alt="jQuery" width="40" height="40"/>
 </a>
 </p>
 
