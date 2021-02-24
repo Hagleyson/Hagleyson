@@ -37,9 +37,6 @@
 <a href="https://jquery.com/" target="_blank"> 
   <img src="https://xesque.rocketseat.dev/platform/tech/jquery.svg" alt="jQuery" width="40" height="40"/>
 </a>
-<a href="https://jquery.com/" target="_blank"> 
-  <img src="https://xesque.rocketseat.dev/platform/tech/linux.svg" alt="jQuery" width="40" height="40"/>
-</a>
 </p>
 
 #### Estatística
