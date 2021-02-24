@@ -11,7 +11,7 @@
 
 #### Linguangens e outros:
 
-<p align="left">
+<a href="http://vanilla-js.com/" target="_blank">
   <img src="https://xesque.rocketseat.dev/platform/tech/javascript.svg" alt="javascript" width="40" height="40"/> 
 </a>
 
