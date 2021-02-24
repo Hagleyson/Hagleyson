@@ -1,6 +1,7 @@
+<div style="diplay:flex">
 <img src="https://github.com/hagleyson.png" alt="hagleyson" width="150px" heigth="150px">
 <h1 align="center">Oi eu sou Hagleyson </h1>
-
+</div>
 -Sou bacharel em Sistemas de informação pela Universidade Juazeiro do Norte - UNIJUA.
 -Sou técnico em Redes de computadores pelo EEEp Balbina Viana Arrais.
 - Atualmente estou estudando Tecnologias voltada para o Front-end.
