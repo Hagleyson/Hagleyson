@@ -2,7 +2,7 @@
 
 - Atualmente estou estudando Tecnologias voltada para o Front-end.
 
-#### Sobre mim:
+#### Minhas Redes:
 
 <p>
 <a href="https://www.linkedin.com/in/hagleyson-fernandes-70251279/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="HAGLEYSON" height="30" width="40" /></a>
