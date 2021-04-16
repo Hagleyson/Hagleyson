@@ -4,7 +4,7 @@
 
 - Sou bacharel em Sistemas de informação pela Universidade Juazeiro do Norte - UNIJUA.
 - Sou técnico em Redes de computadores pela EEEp Balbina Viana Arrais.
-- Atualmente estou estudando Tecnologias voltada para o Front-end.
+- Atualmente estou estudando Tecnologias voltadas para o Front-end.
 
 #### Minhas Redes:
 
