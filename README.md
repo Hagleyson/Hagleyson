@@ -1,6 +1,6 @@
 
  
-<h1 align="center"><img src="https://github.com/hagleyson.png" alt="hagleyson" width="150px" heigth="150px" align="center"> Oi eu sou Hagleyson </h1>
+<h1 align="center"> Oi eu sou Hagleyson </h1>
 
 - Atualmente trabalho como desenvolvedor Front-End na Stalebu(estágio) e na LubySoftware(trainee).
 
