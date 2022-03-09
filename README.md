@@ -28,10 +28,6 @@
   ![StyledComponent](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
   ![typesCript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![materialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) 
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=007ACC)  
-  ![Visual Studio Code](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
   
 <hr>
 
