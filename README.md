@@ -37,6 +37,9 @@
 <a href="https://reactjs.org/" target="_blank"> 
   <img src="https://xesque.rocketseat.dev/platform/tech/reactjs.svg" alt="react" width="40" height="40"/> 
 </a>
+ <a href="https://reactnative.dev/" target="_blank"> 
+  <img src="https://xesque.rocketseat.dev/platform/tech/reactnative.svg" alt="react" width="40" height="40"/> 
+</a>
 
 <a href="https://www.typescriptlang.org/" target="_blank"> 
   <img src="https://xesque.rocketseat.dev/platform/tech/typescript.svg" alt="typescript" width="40" height="40"/>
