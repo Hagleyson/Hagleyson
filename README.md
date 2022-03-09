@@ -8,14 +8,6 @@
  
 - Sou técnico em Redes de computadores pela EEEp Balbina Viana Arrais.
 
-<hr>
-#### Minhas Redes:
-
-<p> 
-<hr>
-![JavaScript](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-<hr>
-</p>
 
 <hr>
 
