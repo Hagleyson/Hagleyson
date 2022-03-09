@@ -8,6 +8,7 @@
  
 - Sou técnico em Redes de computadores pela EEEp Balbina Viana Arrais.
 <hr>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/hagleyson-fernandes-70251279/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hagleyson@gmail.com)
