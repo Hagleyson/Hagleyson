@@ -24,15 +24,14 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) 
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  
-  
-   
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)   
   
   
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)  
  
+  ![StyledComponent](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
   
 <hr>
 
