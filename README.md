@@ -12,7 +12,9 @@
 #### Minhas Redes:
 
 <p> 
-<a href="https://www.instagram.com/hagleyson/" target="blank"> (https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) </a>
+<a href="https://www.instagram.com/hagleyson/" target="blank"> 
+ ![Instagram](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) 
+</a>
 </p>
 
 <hr>
