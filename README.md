@@ -2,7 +2,7 @@
  
 <h1 align="center"> Oi eu sou Hagleyson </h1>
 
-- Atualmente trabalho como desenvolvedor Front-End na Stalebu(estágio) e na LubySoftware(trainee).
+- Atualmente trabalho como desenvolvedor Web e Mobile na LubySoftware.
 
 - Sou bacharel em Sistemas de informação pela Universidade Juazeiro do Norte - UNIJUA.
  
