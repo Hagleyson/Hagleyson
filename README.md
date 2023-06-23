@@ -29,8 +29,5 @@
   
 <hr>
 
-#### Estatística
 
-<img align="left" height="170"  src="https://github-readme-stats.vercel.app/api/top-langs?username=hagleyson&show_icons=true&locale=en&layout=compact" alt="Hagleyson" />
-<img  align="right" height="170" src="https://github-readme-stats.vercel.app/api?username=hagleyson&show_icons=true&locale=en" alt="Hagleyson" /></p>
 
